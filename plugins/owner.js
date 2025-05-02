@@ -3,15 +3,15 @@ const config = require('../config');
 
 cmd({
     pattern: "owner",
-    react: "✅", 
-    desc: "Get owner number",
+    react: "❤️‍🩹", 
+    desc: "94776078258",
     category: "main",
     filename: __filename
 }, 
 async (conn, mek, m, { from }) => {
     try {
-        const ownerNumber = config.OWNER_NUMBER; // Fetch owner number from config
-        const ownerName = config.OWNER_NAME;     // Fetch owner name from config
+        const ownerNumber = config.94776078258; // Fetch owner number from config
+        const ownerName = config.✅𝗞𝗔𝗩𝗜𝗬𝗔 𝗠𝗗❤️‍🩹;     // Fetch owner name from config
 
         const vcard = 'BEGIN:VCARD\n' +
                       'VERSION:3.0\n' +
